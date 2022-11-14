@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCore\MoodAnalyzerAppWithCore\bin\Debug\net6.0\MoodAnalyzerAppWithCore.exe
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCore\MoodAnalyzerAppWithCore\bin\Debug\net6.0\MoodAnalyzerAppWithCore.deps.json
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCore\MoodAnalyzerAppWithCore\bin\Debug\net6.0\MoodAnalyzerAppWithCore.runtimeconfig.json
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCore\MoodAnalyzerAppWithCore\bin\Debug\net6.0\MoodAnalyzerAppWithCore.dll
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCore\MoodAnalyzerAppWithCore\bin\Debug\net6.0\MoodAnalyzerAppWithCore.pdb
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCore\MoodAnalyzerAppWithCore\obj\Debug\net6.0\MoodAnalyzerAppWithCore.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCore\MoodAnalyzerAppWithCore\obj\Debug\net6.0\MoodAnalyzerAppWithCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCore\MoodAnalyzerAppWithCore\obj\Debug\net6.0\MoodAnalyzerAppWithCore.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCore\MoodAnalyzerAppWithCore\obj\Debug\net6.0\MoodAnalyzerAppWithCore.AssemblyInfo.cs
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCore\MoodAnalyzerAppWithCore\obj\Debug\net6.0\MoodAnalyzerAppWithCore.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCore\MoodAnalyzerAppWithCore\obj\Debug\net6.0\MoodAnalyzerAppWithCore.dll
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCore\MoodAnalyzerAppWithCore\obj\Debug\net6.0\refint\MoodAnalyzerAppWithCore.dll
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCore\MoodAnalyzerAppWithCore\obj\Debug\net6.0\MoodAnalyzerAppWithCore.pdb
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCore\MoodAnalyzerAppWithCore\obj\Debug\net6.0\MoodAnalyzerAppWithCore.genruntimeconfig.cache
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCore\MoodAnalyzerAppWithCore\obj\Debug\net6.0\ref\MoodAnalyzerAppWithCore.dll
