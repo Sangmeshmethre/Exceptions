@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCoreTC\MoodAnalyzerAppWithCoreTC\bin\Debug\net6.0\MoodAnalyzerAppWithCoreTC.exe
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCoreTC\MoodAnalyzerAppWithCoreTC\bin\Debug\net6.0\MoodAnalyzerAppWithCoreTC.deps.json
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCoreTC\MoodAnalyzerAppWithCoreTC\bin\Debug\net6.0\MoodAnalyzerAppWithCoreTC.runtimeconfig.json
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCoreTC\MoodAnalyzerAppWithCoreTC\bin\Debug\net6.0\MoodAnalyzerAppWithCoreTC.dll
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCoreTC\MoodAnalyzerAppWithCoreTC\bin\Debug\net6.0\MoodAnalyzerAppWithCoreTC.pdb
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCoreTC\MoodAnalyzerAppWithCoreTC\obj\Debug\net6.0\MoodAnalyzerAppWithCoreTC.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCoreTC\MoodAnalyzerAppWithCoreTC\obj\Debug\net6.0\MoodAnalyzerAppWithCoreTC.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCoreTC\MoodAnalyzerAppWithCoreTC\obj\Debug\net6.0\MoodAnalyzerAppWithCoreTC.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCoreTC\MoodAnalyzerAppWithCoreTC\obj\Debug\net6.0\MoodAnalyzerAppWithCoreTC.AssemblyInfo.cs
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCoreTC\MoodAnalyzerAppWithCoreTC\obj\Debug\net6.0\MoodAnalyzerAppWithCoreTC.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCoreTC\MoodAnalyzerAppWithCoreTC\obj\Debug\net6.0\MoodAnalyzerAppWithCoreTC.dll
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCoreTC\MoodAnalyzerAppWithCoreTC\obj\Debug\net6.0\refint\MoodAnalyzerAppWithCoreTC.dll
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCoreTC\MoodAnalyzerAppWithCoreTC\obj\Debug\net6.0\MoodAnalyzerAppWithCoreTC.pdb
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCoreTC\MoodAnalyzerAppWithCoreTC\obj\Debug\net6.0\MoodAnalyzerAppWithCoreTC.genruntimeconfig.cache
+C:\LFP-195 Batch\Exceptions\MoodAnalyzerAppWithCoreTC\MoodAnalyzerAppWithCoreTC\obj\Debug\net6.0\ref\MoodAnalyzerAppWithCoreTC.dll
