@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Exceptions\TestCase1.2\MoodAnalyserProb\MoodAnalyserProb\bin\Debug\net6.0\MoodAnalyserProb.exe
+C:\LFP-195 Batch\Exceptions\TestCase1.2\MoodAnalyserProb\MoodAnalyserProb\bin\Debug\net6.0\MoodAnalyserProb.deps.json
+C:\LFP-195 Batch\Exceptions\TestCase1.2\MoodAnalyserProb\MoodAnalyserProb\bin\Debug\net6.0\MoodAnalyserProb.runtimeconfig.json
+C:\LFP-195 Batch\Exceptions\TestCase1.2\MoodAnalyserProb\MoodAnalyserProb\bin\Debug\net6.0\MoodAnalyserProb.dll
+C:\LFP-195 Batch\Exceptions\TestCase1.2\MoodAnalyserProb\MoodAnalyserProb\bin\Debug\net6.0\MoodAnalyserProb.pdb
+C:\LFP-195 Batch\Exceptions\TestCase1.2\MoodAnalyserProb\MoodAnalyserProb\obj\Debug\net6.0\MoodAnalyserProb.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Exceptions\TestCase1.2\MoodAnalyserProb\MoodAnalyserProb\obj\Debug\net6.0\MoodAnalyserProb.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Exceptions\TestCase1.2\MoodAnalyserProb\MoodAnalyserProb\obj\Debug\net6.0\MoodAnalyserProb.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Exceptions\TestCase1.2\MoodAnalyserProb\MoodAnalyserProb\obj\Debug\net6.0\MoodAnalyserProb.AssemblyInfo.cs
+C:\LFP-195 Batch\Exceptions\TestCase1.2\MoodAnalyserProb\MoodAnalyserProb\obj\Debug\net6.0\MoodAnalyserProb.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Exceptions\TestCase1.2\MoodAnalyserProb\MoodAnalyserProb\obj\Debug\net6.0\MoodAnalyserProb.dll
+C:\LFP-195 Batch\Exceptions\TestCase1.2\MoodAnalyserProb\MoodAnalyserProb\obj\Debug\net6.0\refint\MoodAnalyserProb.dll
+C:\LFP-195 Batch\Exceptions\TestCase1.2\MoodAnalyserProb\MoodAnalyserProb\obj\Debug\net6.0\MoodAnalyserProb.pdb
+C:\LFP-195 Batch\Exceptions\TestCase1.2\MoodAnalyserProb\MoodAnalyserProb\obj\Debug\net6.0\MoodAnalyserProb.genruntimeconfig.cache
+C:\LFP-195 Batch\Exceptions\TestCase1.2\MoodAnalyserProb\MoodAnalyserProb\obj\Debug\net6.0\ref\MoodAnalyserProb.dll
