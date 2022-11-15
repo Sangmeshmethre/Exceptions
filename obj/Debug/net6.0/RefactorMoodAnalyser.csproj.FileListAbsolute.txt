@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Exceptions\RefactorMoodAnalyser\RefactorMoodAnalyser\bin\Debug\net6.0\RefactorMoodAnalyser.exe
+C:\LFP-195 Batch\Exceptions\RefactorMoodAnalyser\RefactorMoodAnalyser\bin\Debug\net6.0\RefactorMoodAnalyser.deps.json
+C:\LFP-195 Batch\Exceptions\RefactorMoodAnalyser\RefactorMoodAnalyser\bin\Debug\net6.0\RefactorMoodAnalyser.runtimeconfig.json
+C:\LFP-195 Batch\Exceptions\RefactorMoodAnalyser\RefactorMoodAnalyser\bin\Debug\net6.0\RefactorMoodAnalyser.dll
+C:\LFP-195 Batch\Exceptions\RefactorMoodAnalyser\RefactorMoodAnalyser\bin\Debug\net6.0\RefactorMoodAnalyser.pdb
+C:\LFP-195 Batch\Exceptions\RefactorMoodAnalyser\RefactorMoodAnalyser\obj\Debug\net6.0\RefactorMoodAnalyser.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Exceptions\RefactorMoodAnalyser\RefactorMoodAnalyser\obj\Debug\net6.0\RefactorMoodAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Exceptions\RefactorMoodAnalyser\RefactorMoodAnalyser\obj\Debug\net6.0\RefactorMoodAnalyser.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Exceptions\RefactorMoodAnalyser\RefactorMoodAnalyser\obj\Debug\net6.0\RefactorMoodAnalyser.AssemblyInfo.cs
+C:\LFP-195 Batch\Exceptions\RefactorMoodAnalyser\RefactorMoodAnalyser\obj\Debug\net6.0\RefactorMoodAnalyser.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Exceptions\RefactorMoodAnalyser\RefactorMoodAnalyser\obj\Debug\net6.0\RefactorMoodAnalyser.dll
+C:\LFP-195 Batch\Exceptions\RefactorMoodAnalyser\RefactorMoodAnalyser\obj\Debug\net6.0\refint\RefactorMoodAnalyser.dll
+C:\LFP-195 Batch\Exceptions\RefactorMoodAnalyser\RefactorMoodAnalyser\obj\Debug\net6.0\RefactorMoodAnalyser.pdb
+C:\LFP-195 Batch\Exceptions\RefactorMoodAnalyser\RefactorMoodAnalyser\obj\Debug\net6.0\RefactorMoodAnalyser.genruntimeconfig.cache
+C:\LFP-195 Batch\Exceptions\RefactorMoodAnalyser\RefactorMoodAnalyser\obj\Debug\net6.0\ref\RefactorMoodAnalyser.dll
